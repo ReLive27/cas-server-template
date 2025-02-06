@@ -15,3 +15,12 @@ To package the final web application, run:
 ```bash
 ./build.sh package
 ```
+
+# Default Username and Password
+
+The CAS server includes a default user for testing purposes:
+
+* **Username:** `casuser`
+* **Password:** `Mellon`  
+
+
